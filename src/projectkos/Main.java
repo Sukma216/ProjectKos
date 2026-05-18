@@ -8,7 +8,7 @@ package projectkos;
  *
  * @author USER
  */
-public class ProjectKos {
+public class Main {
 
     /**
      * @param args the command line arguments
