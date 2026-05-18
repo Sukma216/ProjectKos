@@ -2,7 +2,7 @@ package model;
 
 public class KondisiFasilitas {
 
-    // encapsulation
+    // PILAR - encapsulation
     private int idKamar;
     private int idFasilitas;
     private String kondisi;

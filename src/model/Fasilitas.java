@@ -1,7 +1,7 @@
 package model;
 
 public class Fasilitas {
-    // pilar 1 encapsulation 
+    // PILAR - encapsulation 
     private int    idFasilitas;
     private String namaFasilitas;
 

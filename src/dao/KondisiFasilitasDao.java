@@ -9,7 +9,7 @@ import java.util.List;
  
 public class KondisiFasilitasDao implements GenerialDAO<KondisiFasilitas> { // inheritance
     // Semua DAO mewarisi kontrak dari GenerialDAO 
-    // wajib punya CURD DASAAR insert, update, delete, read (findById, findAll)
+    // wajib punya CRUD DASAAR insert, update, delete, read (findById, findAll)
     private Connection conn() {
         return DatabaseConnection.getConnection();
     }

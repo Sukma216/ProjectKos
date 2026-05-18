@@ -1,7 +1,7 @@
 package model;
 
 public class Penghuni {
-    // deskripsi variabel
+    // PILAR - encapsulation
     private int idPenghuni;
     private String namaPenghuni;
     private String noTelp;

@@ -5,9 +5,9 @@
 package dao;
 import java.util.List;
 
-// ABSTRACTION - ini interface general yg mendefinisikan CRUD
-// POLYMORPHISM - semua DAO wajib mengimplementasikan operasi ini
-// intinya semua class DAO diwajibkan punya dasar CURD
+// PILAR - ABSTRACTION - ini interface general yg mendefinisikan CRUD
+// PILAR - POLYMORPHISM - semua DAO wajib mengimplementasikan operasi ini
+// intinya semua class DAO diwajibkan punya dasar CRUD
 
 public interface GenerialDAO<T> {
     void insert(T obj);

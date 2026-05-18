@@ -9,7 +9,7 @@ package model;
  * @author USER
  */
 public class Pembayaran {
-    // pilar 1 encapsulation
+    // PILAR - encapsulation
     private int idPembayaran;
     private int idPenghuni;
     private String namaPenghuni;

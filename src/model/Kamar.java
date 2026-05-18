@@ -1,6 +1,6 @@
 package model;
 
-    // pilar 1 - encapsulation 
+    // PILAR - encapsulation 
     // semua field private, hanya bisa diakses melalui setter & getter 
     // berlaku juga di class lain 
 
